@@ -21,13 +21,19 @@ The case which houses the pcb and has a cutout for the USB, and the plate which 
 
 Made in fusion 360
 
+<img src=Screenshots/CAD.png alt="Schematic" width="500"/>
+<img src=Screenshots/Top Plate.png alt="Schematic" width="500"/>
+<img src=Screenshots/Bottom Case.png alt="Schematic" width="500"/>
+
+
 ## PCB
 My PCB was made in KiCad 9.0.
 
 Schematic:
-
+<img src=Screenshots/Schematics.png alt="Schematic" width="500"/>
 
 PCB:
+<img src=Screenshots/PCB.png alt="Schematic" width="500"/>
 
 ## Firmware
 I used QMK firmware for it. (It took me way too long)
@@ -56,3 +62,5 @@ So to make this youll need:
 
 
 Thats it!
+
+Anyways have a good day
