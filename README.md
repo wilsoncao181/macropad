@@ -30,9 +30,13 @@ Made in fusion 360
 My PCB was made in KiCad 9.0.
 
 Schematic:
-<img src=Screenshots/Schematics.png alt="Schematic" width="500"/>
+
+
+<img src=Screenshots/Schematic.png alt="Schematic" width="500"/>
 
 PCB:
+
+
 <img src=Screenshots/PCB.png alt="PCB" width="500"/>
 
 ## Firmware
