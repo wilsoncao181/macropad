@@ -2,7 +2,9 @@
 
 I couldnt think of a better name :(
 
-My hack pad has 5 buttons and a rotary encoder and uses qmk firmware. I jsut wanted to learn something new and this has been a very fun experience.
+My hack pad has 5 buttons and a rotary encoder and uses qmk firmware. 
+
+I just wanted to learn something new and this has been a very fun experience.
 
 ## Features
 
