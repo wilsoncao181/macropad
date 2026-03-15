@@ -21,9 +21,9 @@ The case which houses the pcb and has a cutout for the USB, and the plate which 
 
 Made in fusion 360
 
-<img src=Screenshots/CAD.png alt="Schematic" width="500"/>
-<img src=Screenshots/Top Plate.png alt="Schematic" width="500"/>
-<img src=Screenshots/Bottom Case.png alt="Schematic" width="500"/>
+<img src=Screenshots/CAD.png alt="CAD" width="500"/>
+<img src=Screenshots/Top_Plate.png alt="CAD" width="500"/>
+<img src=Screenshots/Bottom_Case.png alt="CAD" width="500"/>
 
 
 ## PCB
@@ -33,7 +33,7 @@ Schematic:
 <img src=Screenshots/Schematics.png alt="Schematic" width="500"/>
 
 PCB:
-<img src=Screenshots/PCB.png alt="Schematic" width="500"/>
+<img src=Screenshots/PCB.png alt="PCB" width="500"/>
 
 ## Firmware
 I used QMK firmware for it. (It took me way too long)
