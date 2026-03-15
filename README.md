@@ -13,7 +13,8 @@ The case which houses the pcb and has a cutout for the USB, and the plate which 
 Made in fusion 360
 
 ## PCB
-My PCB was made in KiCad 9.0
+My PCB was made in KiCad 9.0.
+
 Schematic:
 
 
