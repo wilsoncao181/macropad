@@ -21,9 +21,9 @@ The case which houses the pcb and has a cutout for the USB, and the plate which 
 
 Made in fusion 360
 
-<img src=Screenshots/CAD.png alt="CAD" width="500"/>
-<img src=Screenshots/Top_Plate.png alt="CAD" width="500"/>
-<img src=Screenshots/Bottom_Case.png alt="CAD" width="500"/>
+<img src=Screenshots/Assembled_CAD1.png alt="CAD" width="500"/>
+<img src=Screenshots/Assembled_CAD2.png alt="CAD" width="500"/>
+<img src=Screenshots/Assembled_CAD3.png alt="CAD" width="500"/>
 
 
 ## PCB
