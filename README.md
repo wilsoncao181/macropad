@@ -23,7 +23,7 @@ Made in fusion 360
 
 <img src=Screenshots/Assembled_CAD1.png alt="CAD" width="500"/>
 <img src=Screenshots/Assembled_CAD2.png alt="CAD" width="500"/>
-<img src=Screenshots/Assembled_CAD3.png alt="CAD" width="500"/>
+
 
 
 ## PCB
