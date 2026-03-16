@@ -49,7 +49,7 @@ cut,
 undo and 
 redo.
 
-#BOM
+##BOM
 So to make this youll need:
 
 -5x Cherry MX Switches
