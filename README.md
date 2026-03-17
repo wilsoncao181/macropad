@@ -65,7 +65,7 @@ So to make this you'll need:
 
 -5x DSA Keycaps
 
--4x M3x20mm Socket Countersunk Screws 
+-4x M3 x 20mm Full Thread Socket Cap Head Screws
 
 -1x EC11 Rotary Encoder
 
