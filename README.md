@@ -18,7 +18,10 @@ Rotary encoder will mute when clicked and turning it controls volume
 Held together by 4 M3x20mm bolts, one in each corner of the case. It has 3 printed piece. 
 
 The case which houses the pcb and has a cutout for the USB, and the plate which the keys will sit ontop of.
+
 The screws will be screwed from the bottom and will go through 2mm of the tilted plate, 16mm of the main body and 2mm of the top plate. The bottom of the the tilted plate has holes to allow the entire screw (including the head) to travel through.
+
+The third picture shows that I have left space for the headers which will connect the XIAO and the PCB. 
 
 Made in fusion 360
 
