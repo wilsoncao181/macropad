@@ -8,7 +8,7 @@ I just wanted to learn something new and this has been a very fun experience.
 
 ## Features
 
-Very simple sandwich mount case with a 4.9.. tilt!
+Very simple sandwich mount case with a 4 ish degree tilt!
 
 Buttons will copy, paste, cut, undo and redo.
 
@@ -65,7 +65,7 @@ So to make this you'll need:
 
 -5x DSA Keycaps
 
--4x M3x20mm SHCS Bolts (20mm not 16)
+-4x M3x20mm Socket Countersunk Screws 
 
 -1x EC11 Rotary Encoder
 
