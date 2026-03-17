@@ -47,10 +47,15 @@ PCB:
 I used QMK firmware for it. (It took me way too long)
 The rotary encoder changes volume and presses to mute
 The 5 keys will:
+
 -copy, 
+
 -paste, 
+
 -cut,
+
 -undo and 
+
 -redo.
 
 ## BOM
