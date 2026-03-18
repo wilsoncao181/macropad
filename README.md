@@ -1,4 +1,4 @@
-# macropad
+# Macropad
 
 I couldnt think of a better name :(
 
