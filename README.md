@@ -69,7 +69,7 @@ So to make this you'll need:
 
 -1x EC11 Rotary Encoder
 
--1x XIAO RP2040
+-1x XIAO RP2040 + headers (to attach to PCB)
 
 -1x Case (3 printed parts)
 
